@@ -3,6 +3,6 @@
 a = 2
 b = 3
 
-soma = a + b
-print(soma)
+result = a * b
+print(result)
 
